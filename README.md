@@ -10,6 +10,4 @@ Diego Armando Nieves Silva.
 
 Maria Andreyna Cardenas Manrique.
 
-Jairo Andres Agudelo Cortes.
-
 Dylan Alexis Rivera Ordoñez.
